@@ -1,0 +1,2 @@
+# wLBC
+Wrapped LBRY Credits
